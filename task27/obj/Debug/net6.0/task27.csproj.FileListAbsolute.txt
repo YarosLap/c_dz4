@@ -1,0 +1,15 @@
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/bin/Debug/net6.0/task27
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/bin/Debug/net6.0/task27.deps.json
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/bin/Debug/net6.0/task27.runtimeconfig.json
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/bin/Debug/net6.0/task27.dll
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/bin/Debug/net6.0/task27.pdb
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/task27.csproj.AssemblyReference.cache
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/task27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/task27.AssemblyInfoInputs.cache
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/task27.AssemblyInfo.cs
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/task27.csproj.CoreCompileInputs.cache
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/task27.dll
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/refint/task27.dll
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/task27.pdb
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/task27.genruntimeconfig.cache
+/Users/elvis/Desktop/gb/C#/c_dz4/task27/obj/Debug/net6.0/ref/task27.dll
